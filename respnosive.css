@@ -1,0 +1,15 @@
+@media (max-width: 768px) {
+    .text-content-1{
+        width: 200px;
+      
+    }
+    .button-place{
+display: none;
+    }
+    .nav-bar{
+        display: none;
+    }
+    .text-content-1 h1{
+        font-size: 2rem;
+        }
+  }
